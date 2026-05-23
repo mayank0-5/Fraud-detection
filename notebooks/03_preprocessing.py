@@ -1,7 +1,4 @@
-# ============================================
-# Commit #4 - Preprocessing + SMOTE
-# Credit Card Fraud Detection
-# ============================================
+
 
 import pandas as pd
 import numpy as np
