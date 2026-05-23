@@ -1,7 +1,4 @@
-# ============================================
-# Commit #3 - Visualizations
-# Credit Card Fraud Detection
-# ============================================
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
