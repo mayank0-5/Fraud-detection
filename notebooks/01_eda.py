@@ -1,7 +1,3 @@
-# ============================================
-# Commit #2 - Data Loading & EDA
-# Credit Card Fraud Detection
-# ============================================
 
 import pandas as pd
 import numpy as np
