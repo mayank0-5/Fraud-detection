@@ -1,7 +1,3 @@
-# ============================================
-# Commit #5 - Model Training & Evaluation
-# Credit Card Fraud Detection
-# ============================================
 
 import numpy as np
 import matplotlib.pyplot as plt
